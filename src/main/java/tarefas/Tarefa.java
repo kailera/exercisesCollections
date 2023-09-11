@@ -1,4 +1,4 @@
-package list;
+package tarefas;
 
 public class Tarefa {
     private String nome;
